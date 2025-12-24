@@ -1,6 +1,6 @@
 <h1>NBA Player Performance Analysis: Curry vs Durant (2021–2024)</h1>
 
- ### [LINK TO BE UPLOADED](https://youtu.be/7eJexJVCqJo)
+ ### [LINK TO BE UPLOADED](link)
 
 <h2>Description</h2>
 This project presents a comparative analysis of offensive and defensive performance of Stephen Curry and Kevin Durant across four NBA seasons (2021–2024). Using SQL for data preparation and Tableau for interactive dashboards, the analysis focuses on efficiency, scoring style, playmaking balance, and defensive contribution, rather than raw box-score totals.
@@ -101,7 +101,7 @@ OFFENCE: Effeciency Trend tracked using True Shooting % <br/>
 <br />
 
 <br />
-OFFENCE: Scoring Volume tracked meaasure TS% by FG Attempts Effeciency Trend with the parameters as tooltip <br/>
+OFFENCE: Scoring Volume tracked measure TS% by FG Attempts Effeciency Trend <br/>
 <img width="1231" height="815" alt="Screenshot (561)" src="https://github.com/user-attachments/assets/24c9bcc0-0daa-4365-b815-b4f6b015f8fa" />
 
 
@@ -128,17 +128,26 @@ OFFENCE: Measuring Game Score with the parameters as tooltip <br/>
 
 
 
-<br />
-Adjusting the scale for Recency of purchase: <br/>
-<img width="1223" height="808" alt="Screenshot (551)" src="https://github.com/user-attachments/assets/25a50491-3651-4a42-b204-5eec9090de06" />
-<br />
-<br />
-Adjusting the scale for Frequency of purchase:  <br/>
-<img width="1217" height="808" alt="Screenshot (552)" src="https://github.com/user-attachments/assets/5c7733d4-439a-4334-b783-7260592b41a6" />
+<br /> Defensive Index measure along with parameters as tooltip <br/>
+<img width="1219" height="820" alt="Screenshot (566)" src="https://github.com/user-attachments/assets/470165ba-ebd4-4035-8a8a-062f9f7ffed9" />
+
 <br />
 <br />
-Adjusting the scale for Monetary Value of purchase:  <br/>
-<img width="1227" height="814" alt="Screenshot (553)" src="https://github.com/user-attachments/assets/ab80cf98-7bab-4037-836d-608ae3b2e8ce" />
+Rebounding impact as a measure of Defensive Effeciency <br/>
+<img width="1214" height="816" alt="Screenshot (567)" src="https://github.com/user-attachments/assets/48cba004-a9f7-45d9-b870-1dd64f9f1166" />
+
+<br />
+<br />
+Disruption rate tracking Blocks and Steals  <br/>
+<img width="1215" height="824" alt="Screenshot (568)" src="https://github.com/user-attachments/assets/7be41c80-b3e2-47dd-ac9e-29711b8fcf75" />
+
+<br />
+
+<br />
+Measuring Disruption rate by Defensive Discipline along with their respective parameters <br/>
+<img width="1220" height="817" alt="Screenshot (569)" src="https://github.com/user-attachments/assets/9f158c6b-86d3-4dcf-9de9-b17083bee368" />
+
+
 <br />
 
 <!--
